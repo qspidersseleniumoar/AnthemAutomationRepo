@@ -6,4 +6,8 @@ public class Quote {
 		
 	}
 
+	
+public void mtd2() {
+		
+	}
 }
