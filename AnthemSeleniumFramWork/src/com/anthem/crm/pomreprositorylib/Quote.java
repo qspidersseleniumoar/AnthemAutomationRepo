@@ -10,4 +10,8 @@ public class Quote {
 public void mtd2() {
 		
 	}
+
+public void mtd3() {
+	
+}
 }
